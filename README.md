@@ -83,7 +83,7 @@
 
 ## :zap: My GitHub Stats
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=goldpal&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=goldpal&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldpal&theme=highcontrast&layout=compact&hide_border=true" alt="used-langs-niclas" height="180px"/>
 </p>
 <p align="left">
