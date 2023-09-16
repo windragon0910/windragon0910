@@ -6,6 +6,7 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="center">
+    <em> 🚀 I am Full Stack Developer 🚀 </em>
     <em> 🚀 Only Perfect, Full-time Working, Bug Free Coding 🚀 </em>
 </h1>
 
